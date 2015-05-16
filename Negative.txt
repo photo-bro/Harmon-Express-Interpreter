@@ -1,0 +1,27 @@
+#####
+#
+#
+# Negative Numbers
+# Un-comment this section if you have implemented negative numbers
+# This is for an A- level program
+#####
+-4
+-4
+#####
+- 4
+-4
+####
+-4+5
+1
+####
+5--4
+9
+####
+5+-4
+1
+######
+- - - - 4
+4
+#####
+5 - - - - 4
+9
